@@ -1,7 +1,8 @@
 
 
-change made by Rick
+change made by Drake
 
-class foo{
+class{
 
-System.out.println("This is code by Rick");
+System.out.println("This is code by Drake");
+}
